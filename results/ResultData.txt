@@ -1,0 +1,9 @@
+baseline: 
+Final time: 101.70624899864197
+Final tts: 903.7751507759094
+All parallel (use GPU scheduler): 
+Final time: 36.09741234779358
+Final tts: 677.6040406227112
+wsjfJ:
+Final time: 19.763592004776
+Final tts: 111.87286639213562
